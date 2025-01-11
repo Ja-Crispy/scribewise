@@ -12,7 +12,7 @@ ScribeWise is a modern, AI-powered text editor that helps you improve your writi
 - Revision history tracking
 - Dark/light mode support
 - File import (TXT, MD, DOCX)
-- ⌨Keyboard shortcuts
+- Keyboard shortcuts
 - Copy to clipboard functionality
 - Accessibility features
 
