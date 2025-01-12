@@ -114,7 +114,7 @@ The AI receives context about:
    - Dependencies installation
    - Basic component structure
 
-2. **Frontend Development** (2 hour)
+2. **Frontend Development** (1 hour)
    - UI components
    - Responsive design
    - Theme implementation
@@ -131,12 +131,12 @@ The AI receives context about:
    - Revision history
    - Undo/redo
 
-5. **Testing & Refinement** (1 hours)
+5. **Testing & Refinement** (30 hours)
    - Bug fixes
    - Performance optimization
    - Accessibility improvements
 
-Total Development Time: ~ 5 hours 30 minutes (3:30 P.M to 9:00 P.M IST )
+Total Development Time: ~ 4 hours 30 minutes (3:30 P.M to 8:00 P.M IST )
 
 ## Future Improvements
 
